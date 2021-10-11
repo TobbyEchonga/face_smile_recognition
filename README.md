@@ -1,8 +1,8 @@
 # Face recognition
-Application to detect face and simple recognition 
+Python application to detect face and simple recognition 
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+I would like to acknowledge Harshit Roy 
 
 ## License
 For open source projects, say how it is licensed.
