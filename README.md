@@ -1,6 +1,7 @@
 # Face recognition
 Python application to detect face and simple recognition 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+##
+![alt text](https://github.com/TobbyEchonga/face_smile_recognition/blob/main/smile.JPG?raw=true)
 
 ## Authors and acknowledgment
 I would like to acknowledge Harshit Roy 
